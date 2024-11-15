@@ -1,4 +1,4 @@
-# Changelog
+# Changelogg
 
 All notable changes to XAD will be documented in this file.
 
